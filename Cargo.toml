@@ -1,0 +1,9 @@
+[package]
+name = "core-futures-stateless"
+edition = "2018"
+version = "0.1.0"
+authors = ["Thomas Bénéteau <thomas@bitwise.me>"]
+repository = "https://github.com/TomCrypto/core-futures-stateless"
+description = "Workaround for no_std async-await that doesn't store task contexts"
+readme = "README.md"
+license = "MIT"
